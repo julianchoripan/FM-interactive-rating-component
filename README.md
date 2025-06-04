@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-EtXgxzH9Tk)
 - Live Site URL: [Live site](https://julianchoripan.github.io/FM-interactive-rating-component)
 
 ## My process
