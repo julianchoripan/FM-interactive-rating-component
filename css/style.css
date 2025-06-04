@@ -140,3 +140,21 @@ button {
   margin: 8px 20px;
   color: var(--orange);
 }
+
+/*active states*/
+
+.rating-button:hover {
+  background-color: var(--orange);
+  color: var(--grey950);
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: var(--white);
+  cursor: pointer;
+}
+
+.selected {
+  background-color: var(--white);
+  color: var(--grey950);
+}
